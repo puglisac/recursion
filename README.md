@@ -504,7 +504,7 @@ Download and extract the zip file to a directory of your choice.
 
 Via command line:
 
-`$ git clone https://github.com/puglisac/divide-and-conquor.git`  
+`$ git clone https://github.com/puglisac/recursion.git`  
 
 Install dependencies
 
